@@ -46,4 +46,11 @@ Grenada
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 🔗 Links
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/keithalexander96/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/keithalexanderjr)
+
+
+
+
 ![keithalexanderjr](https://github-readme-stats.vercel.app/api/top-langs/?username=keithalexanderjr&theme=blue-green)
