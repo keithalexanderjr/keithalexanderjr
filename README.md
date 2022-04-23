@@ -9,3 +9,5 @@
 👘 Outside the world of tech, I love pushing myself to see my fullest potential. I currently train Brazilian Jiu Jitsu, Boxing & Powerlifting. Aside from the injuries, I am having much fun testing my limits. I am thankful for my teammates who help me everyday to become better 🤟
 
 🥟Powerlifting Goals: S:405/B:315/DL:500
+
+Starting lb: 235.2 / Current lb: 165.4 ⚖️
