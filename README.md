@@ -1,6 +1,6 @@
 ## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-### About Me
+### :rocket: About Me
 
 👨‍🎓 Welcome to my GitHub page! I am Keith Alexander Jr., a computer engineer who is passionate about technology and engineering advancement. I also enjoy working with AI and drones.
 
