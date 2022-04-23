@@ -12,4 +12,5 @@
 
 SW: 235.2 lb / CW: 165.4 lb / Goal: 155 lb ⚖️
 
-🇯🇲 🇬🇩
+Jamaica ||
+Grenada
