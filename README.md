@@ -1,4 +1,4 @@
-## Hi There, 👋
+## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ### About Me
 
@@ -14,3 +14,25 @@ SW: 235.2 lb / CW: 165.4 lb / Goal: 155 lb ⚖️
 
 Jamaica ||
 Grenada
+
+## :hammer_and_wrench: Skills
+
+### Languages 
+
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
+### Front-End Development
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data Analytics
+![jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
+
+## 🖥️ Workspace Setup
+
+![i7-9th-gen](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
