@@ -10,4 +10,4 @@
 
 🥟Powerlifting Goals: S:405/B:315/DL:500
 
-SW: 235.2 lb / CW: 165.4 lb ⚖️
+SW: 235.2 lb / CW: 165.4 lb / Goal: 155 lb ⚖️
