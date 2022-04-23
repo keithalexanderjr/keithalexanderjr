@@ -22,13 +22,22 @@ Grenada
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
+
 ### Front-End Development
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Data Analytics
 ![jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
+
+
+
+### Design Tools
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
 ## 🖥️ Workspace Setup
@@ -36,3 +45,5 @@ Grenada
 ![i7-9th-gen](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![keithalexanderjr](https://github-readme-stats.vercel.app/api/top-langs/?username=keithalexanderjr&theme=blue-green)
