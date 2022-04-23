@@ -10,4 +10,4 @@
 
 🥟Powerlifting Goals: S:405/B:315/DL:500
 
-Starting lb: 235.2 / Current lb: 165.4 ⚖️
+SW: 235.2 lb / CW: 165.4 lb ⚖️
