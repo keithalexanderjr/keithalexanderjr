@@ -12,7 +12,7 @@
 
 SW: 235.2 lb / CW: 165.4 lb / Competition Weight: 155 lb (Featherweight Division)⚖️
 
-Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata
+Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata, Ankle Lock
 
 Jamaica ||
 Grenada
