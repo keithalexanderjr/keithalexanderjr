@@ -2,7 +2,7 @@
 
 ### :rocket: About Me
 
-👨‍🎓 Welcome to my GitHub page! I am Keith Alexander Jr., a Computer Engineer who is passionate about technology and engineering advancement. I enjoy working with **AI**, **Drones & Robotics**, **Analytics**, **Software Development** and **Machine Leanrning**.
+👨‍🎓 Welcome to my GitHub page! I am Keith Alexander Jr., a Computer Engineer who is passionate about technology and engineering advancement. I enjoy working with and have an interest in **AI**, **Drones & Robotics**, **Analytics**, **Software Development**, **Home Automation** and **Machine Leanrning**.
 
 💾 I like contributing to Open Source projects and am really enthusiastic about learning new technology. I have graduated with a Bachelor's of Science degree in Computer Engineering. I've been working on personal software development projects and my personal website as well to keep track of my new discoveries and other fun stuff!
 
