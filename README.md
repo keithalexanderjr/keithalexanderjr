@@ -8,7 +8,7 @@
 
 👘 Outside the world of tech, I love pushing myself to see my fullest potential. I currently train **Brazilian Jiu Jitsu**, **Boxing** & **Powerlifting**. Aside from the injuries, I am having much fun testing my limits. I am thankful for my Professors, coaches and teammates who help me everyday to become better 🤟
 
-🥟Powerlifting Goals: SQ:405/BP:315/DL:585
+🥟Powerlifting Goals: SQ: 405/BP: 315/DL: 585
 
 SW: 235.2 lb / CW: 165.4 lb / Competition Weight: 74 kg & 155 lb (Featherweight Division)⚖️
 
