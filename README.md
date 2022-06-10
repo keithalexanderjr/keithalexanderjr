@@ -17,6 +17,16 @@ Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata, Straight Ankle L
 Jamaica ||
 Grenada
 
+BOYO Jr.
+
+###### Interests & Activities 
+  	- Drift/Track Car Racing
+	- Music Production
+	- Snowboarding
+	- Overcoming My Fear of Heights
+  
+
+
 ## :hammer_and_wrench: Skills
 
 ### Languages 
