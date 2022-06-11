@@ -23,6 +23,7 @@ BOYO Jr.
   	- Drift/Track Car Racing
 	- Music Production
 	- Snowboarding
+	- Swimming/Tubing & Waterparks
 	- Overcoming My Fear of Heights
   
 
