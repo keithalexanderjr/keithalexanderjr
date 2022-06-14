@@ -2,7 +2,7 @@
 
 ### :rocket: About Me
 
-👨‍🎓 Welcome to my GitHub page! I am Keith Alexander Jr., a Computer Engineer who is passionate about technology and engineering advancement. I enjoy working with and have an interest in **AI**, **Drones & Robotics**, **Analytics**, **Software Development**, **Home Automation** and **Machine Leanrning**.
+👨‍🎓 Welcome to my GitHub page! I am Keith Alexander Jr., a Computer Engineer who is passionate about technology and engineering advancement. I enjoy working with and have an interest in **AI**, **Machine Leanrning**, **Drones & Autonomous Vehicles**, **Robotics**, **Data Engineering**, **Software Development**, and **Home Automation**.
 
 💾 I like contributing to Open Source projects and am really enthusiastic about learning new technology. I have graduated with a Bachelor's of Science degree in Computer Engineering. I've been working on personal software development projects and my personal website as well to keep track of my new discoveries and other fun stuff!
 
@@ -10,7 +10,7 @@
 
 🥟Powerlifting Goals: SQ: 410/BP: 325/DL: 585
 
-SW: 235.2 lb (BF%: 31.4%) / CW: 162.2 lb (BF%: 12.1%) / Competition Weight: 74 kg (USAPL) & 155 lb (Featherweight Division)⚖️
+SW: 235.2 lb (BF%: 31.4%) / CW: 159.8 lb (BF%: 11.8%) / Competition Weight: 74 kg (USAPL) & 155 lb (Featherweight Division)⚖️
 
 Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock
 
