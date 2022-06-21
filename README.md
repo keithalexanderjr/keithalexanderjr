@@ -10,9 +10,9 @@
 
 🥟Powerlifting Goals: SQ: 410/BP: 325/DL: 585
 
-SW: 235.2 lb (BF%: 31.4%) / CW: 159.8 lb (BF%: 11.8%) / Competition Weight: 74 kg (USAPL) & 155 lb (Featherweight Division)⚖️
+SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) / Competition Weight: 74 kg (USAPL) & 155 lb (Featherweight Division)⚖️
 
-Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock
+Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame 
 
 Jamaica ||
 Grenada
@@ -24,6 +24,7 @@ BOYO Jr.
 	- Music Production
 	- Snowboarding
 	- Swimming/Tubing & Waterparks
+	- Fluency in Spanish
 	- Overcoming My Fear of Heights
   
 
