@@ -76,4 +76,7 @@ BOYO Jr.
 
 ![Keith's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120px">
+
+
 ![Webmaster](https://img.shields.io/badge/webmaster-Keith_David_Alexander_Jr.-blue)
