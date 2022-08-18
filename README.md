@@ -69,3 +69,8 @@ BOYO Jr.
 ![keithalexanderjr](https://github-readme-stats.vercel.app/api/top-langs/?username=keithalexanderjr&theme=blue-green)
 
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+![Keith's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)
+
+![Webmaster](https://img.shields.io/badge/webmaster-Keith_David_Alexander_Jr.-blue)
