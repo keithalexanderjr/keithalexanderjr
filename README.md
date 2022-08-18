@@ -61,9 +61,10 @@ BOYO Jr.
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🔗 Links
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/keithalexander96/)
-[![Keith's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.keithalexanderjr.com/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/keithalexander96/)
+[![Keith's Website v2](https://img.shields.io/badge/KeithAlexanderJr.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.keithalexanderjr.com/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/keithalexanderjr)
+<!-- comment [![Keith's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.keithalexanderjr.com/) --> 
 
 
 ![keithalexanderjr](https://github-readme-stats.vercel.app/api/top-langs/?username=keithalexanderjr&theme=blue-green)
