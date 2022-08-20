@@ -14,6 +14,8 @@ SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) || Competition Weight: 74 
 
 Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame 
 
+Born: Sept. 14th
+
 Jamaica ||
 Grenada
 
@@ -72,7 +74,6 @@ BOYO Jr.
 ![keithalexanderjr](https://github-readme-stats.vercel.app/api/top-langs/?username=keithalexanderjr&theme=blue-green)
 
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ![Keith's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)
 
