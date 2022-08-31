@@ -14,7 +14,7 @@ SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) || Competition Weight: 74 
 
 Favorite BJJ Submission(s): Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame 
 
-Judo: Tomoe Nage, Hiza Garuma
+Judo: Tomoe Nage, Hiza Garuma, Uchi Mata
 
 Born: Sept. 14th
 
