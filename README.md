@@ -12,7 +12,7 @@
 
 SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) || Competition Weight: 74 kg (USAPL) & 155 lb (Lightweight Division)⚖️
 
-Favorite BJJ Submission(s): D'Arce, Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame 
+Favorite BJJ Submission(s): Anaconda, D'Arce, Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame 
 
 Judo: Tomoe Nage, Hiza Garuma, Uchi Mata
 
