@@ -23,7 +23,7 @@ Grenada
 
 BOYO Jr.
 
-###### Interests & Activities 
+###### Activities & Interests 
   	- Drift/Track Car Racing
 	- Music Production
 	- Snowboarding
