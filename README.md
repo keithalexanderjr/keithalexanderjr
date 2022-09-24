@@ -28,7 +28,7 @@ BOYO Jr.
 	- Music Production
 	- Snowboarding
 	- Swimming/Tubing & Waterparks
-	- Photography
+	- Photography (Sony Alpha ZV-E10)
 	- Fluency in Spanish
 	- Overcoming My Fear of Heights
   
