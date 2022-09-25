@@ -14,7 +14,7 @@ SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) || Competition Weight: 74 
 
 Favorite BJJ Submission(s): Anaconda, D'Arce, Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame 
 
-Judo: Tomoe Nage, Harai Goshi, Hiza Garuma, Uchi Mata
+Judo: Tomoe Nage, Harai Goshi, Hiza Garuma, Obi Tori Gaeshi, Uchi Mata
 
 Born: Sept. 14th
 
