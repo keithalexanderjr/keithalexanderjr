@@ -25,10 +25,10 @@ BOYO Jr.
 
 ###### Activities & Interests 
   	- Drift/Track Car Racing
+	- Snowboarding (Current Season Board: Bataleon ET)
 	- Music Production
-	- Snowboarding
-	- Swimming/Tubing & Waterparks
 	- Photography (Canon EOS M50 Mark II/Sony Alpha ZV-E10)
+	- Swimming/Tubing & Waterparks
 	- Fluency in Spanish
 	- Overcoming My Fear of Heights
   
