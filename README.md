@@ -30,7 +30,7 @@ BOYO Jr.
 	- Photography (Canon EOS M50 Mark II/Sony Alpha ZV-E10)
 	- Swimming/Tubing & Waterparks
 	- Fluency in Spanish
-	- Food Writing
+	- Food & Travel Writing
 	- Overcoming My Fear of Heights
   
 
