@@ -31,7 +31,6 @@ Born: Sept. 14th
 Jamaica ||
 Grenada
 
-BOYO Jr.
 
 ## :hammer_and_wrench: Skills
 
