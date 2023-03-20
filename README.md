@@ -8,6 +8,16 @@
 
 👘 Outside the world of tech, I enjoy road trips and I love pushing myself; testing my limits to my fullest potential. I am a mixed martial art practitioner in **Brazilian Jiu Jitsu**, train **Muay Thai/Kickboxing** & **Powerlifting**. I am thankful for my Professors, coaches and teammates who help me everyday to become better 🤟
 
+###### Activities & Interests 
+  	- Drift/Track Car Racing
+	- Snowboarding (Current Season Board: Bataleon ET)
+	- Music Production
+	- Photography (Canon EOS M50 Mark II/Sony Alpha ZV-E10)
+	- Swimming/Tubing & Waterparks
+	- Fluency in Spanish
+	- Food & Travel Writing
+	- Overcoming My Fear of Heights
+  
 🥟Powerlifting Goals: SQ: 410/BP: 325/DL: 585
 
 SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) || Competition Weight: 74 kg (USAPL) & 155 lb (Lightweight Division)⚖️
@@ -22,18 +32,6 @@ Jamaica ||
 Grenada
 
 BOYO Jr.
-
-###### Activities & Interests 
-  	- Drift/Track Car Racing
-	- Snowboarding (Current Season Board: Bataleon ET)
-	- Music Production
-	- Photography (Canon EOS M50 Mark II/Sony Alpha ZV-E10)
-	- Swimming/Tubing & Waterparks
-	- Fluency in Spanish
-	- Food & Travel Writing
-	- Overcoming My Fear of Heights
-  
-
 
 ## :hammer_and_wrench: Skills
 
