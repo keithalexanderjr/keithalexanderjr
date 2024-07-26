@@ -2,7 +2,7 @@
 
 ### :rocket: About Me
 
-👨‍🎓 Welcome to my GitHub page! I am Keith Alexander Jr., a Computer Engineer who is passionate about technology and engineering advancement. I enjoy working with and have an interest in **AI**, **Machine Leanrning**, **Drones & Autonomous Vehicles**, **Robotics**, **Data Engineering**, **Software Development**, and **Home Automation**.
+👨‍🎓 Welcome to my GitHub page! I am Keith Alexander Jr., a Computer Engineer who is passionate about technology and engineering advancement. I enjoy working with and have an interest in **AI**, **Machine Learning**, **Drones & Autonomous Vehicles**, **Robotics**, **Data Engineering**, **Software Development**, and **Home Automation**.
 
 💾 I like contributing to Open Source projects and am really enthusiastic about learning new technology. I have graduated with a Bachelor's of Science degree in Computer Engineering. I've been working on personal software development projects and my personal website as well to keep track of my new discoveries and other fun stuff!
 
@@ -22,9 +22,9 @@
 
 SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) || Competition Weight: 74 kg (USAPL) & 155 lb (Lightweight Division)⚖️
 
-Favorite BJJ Submission(s): Anaconda, D'Arce, Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame 
+<!-- comment Favorite BJJ Submission(s): Anaconda, D'Arce, Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame --> 
 
-Judo: Tomoe Nage, Harai Goshi, Hiza Garuma, Obi Tori Gaeshi, Uchi Mata
+<!-- comment Judo: Tomoe Nage, Harai Goshi, Hiza Garuma, Obi Tori Gaeshi, Uchi Mata -->
 
 Born: Sept. 14th
 
