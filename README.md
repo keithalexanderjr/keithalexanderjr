@@ -6,7 +6,7 @@
 
 💾 I like contributing to Open Source projects and am really enthusiastic about learning new technology. I have graduated with a Bachelor's of Science degree in Computer Engineering. I've been working on personal software development projects and my personal website as well to keep track of my new discoveries and other fun stuff!
 
-👘 Outside the world of tech, I enjoy road trips and I love pushing myself; testing my limits to my fullest potential. I am a mixed martial arts practitioner in **Brazilian Jiu Jitsu**, train **Muay Thai/Kickboxing**, **Wrestling** & **Powerlifting**. I am thankful for my Professors, coaches and teammates who help me everyday to become better 
+👘 Outside the world of tech, I enjoy road trips and I love pushing myself; testing my limits to my fullest potential. I am a mixed martial arts practitioner in **Brazilian Jiu Jitsu**, train **Muay Thai/Kickboxing**, **Powerlifting** & **Wrestling**. I am thankful for my Professors, coaches and teammates who help me everyday to become better 
 
 ###### Activities & Interests 
   	- Drift/Track Car Racing
