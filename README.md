@@ -6,7 +6,7 @@
 
 💾 I like contributing to Open Source projects and am really enthusiastic about learning new technology. I have graduated with a Bachelor's of Science degree in Computer Engineering. I've been working on personal software development projects and my personal website as well to keep track of my new discoveries and other fun stuff!
 
-👘 Outside the world of tech, I enjoy road trips and I love pushing myself; testing my limits to my fullest potential. I am a mixed martial arts practitioner in **Brazilian Jiu Jitsu**, train **Muay Thai/Kickboxing**, **Powerlifting** & **Wrestling**. I am thankful for my Professors, coaches and teammates who help me everyday to become better 
+👘 Outside the world of tech, I enjoy road trips and I love pushing myself; testing my limits to my fullest potential. I am a mixed martial arts practitioner in **Brazilian Jiu Jitsu**, **Boxing**, **Muay Thai/Kickboxing**, **Wrestling** & train **Powerlifting**. I am thankful for my Professors, coaches and teammates who help me everyday to become better 
 
 ###### Activities & Interests 
   	- Drift/Track Car Racing
@@ -64,7 +64,7 @@ Grenada
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🔗 Links
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/keithalexander96/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/keithdavidalexander/)
 [![Keith's Website v2](https://img.shields.io/badge/KeithAlexanderJr.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.keithalexanderjr.com/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/keithalexanderjr)
 <!-- comment [![Keith's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.keithalexanderjr.com/) --> 
