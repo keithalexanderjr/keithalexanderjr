@@ -20,7 +20,7 @@
   
 🥟Powerlifting Goals: SQ: 410/BP: 325/DL: 585
 
-SW: 235.2 lb (BF%: 31.4%) / CW: 159.0 lb (BF%: 11.7%) || Competition Weight: 74 kg (USAPL) & 155/170 lb (Feather/Lightweight Division)⚖️
+SW: 235.2 lb (BF%: 31.4%) / CW: 153.6 lb (BF%: 11.2%) || Competition Weight: 74 kg (USAPL) & 155/170 lb (Feather/Lightweight Division)⚖️
 
 <!-- comment Favorite BJJ Submission(s): Anaconda, D'Arce, Kimura, Armbar, Von Flue, Omoplata, Straight Ankle Lock, Kesa Gatame --> 
 
