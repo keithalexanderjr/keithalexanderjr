@@ -65,9 +65,11 @@ Grenada
 
 ## 🔗 Links
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/keithdavidalexander/)
-[![Keith's Website v2](https://img.shields.io/badge/KeithAlexanderJr.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.keithalexanderjr.com/)
+[![Keith's Website v2](https://img.shields.io/badge/KeithAlexanderJr.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://keithalexanderjr.godaddysites.com/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/keithalexanderjr)
 <!-- comment [![Keith's Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.keithalexanderjr.com/) --> 
+<!-- comment [![Keith's Website v2](https://img.shields.io/badge/KeithAlexanderJr.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.keithalexanderjr.com/) -->
+
 
 ## :calling: Contact
 <a href="mailto:kjr.alexander@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
